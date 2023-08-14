@@ -1,0 +1,15 @@
+{
+    "name": "DataAssembly",
+    "references": [
+        "GUID:133a7c68cd24b37428b5201a7481c38d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
